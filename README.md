@@ -16,11 +16,7 @@
 
 ### Tech I'm Familiar with
 
-
-
-|                                      |      |                                             |        |                                    |         |
-| ------------------------------------ | ---- | ------------------------------------------- | ------ | ---------------------------------- | ------- |
-| <img src="Data/java.png" width="40"> | Java | <img src="Data/python_logo.png" width="40"> | Python | <img src="Data/cs.png" width="40"> | C Sharp |
+<img src="Data/java.png" width="40" alt="Java"><img src="Data/python_logo.png" width="40"><img src="Data/cs.png" width="40"> 
 
 
 |                                          |     |                                                     |       |                                            |              |
@@ -31,6 +27,7 @@
 | ---------------------------------------------------- | ---------- |
 | <img src="Data/Kubernetes-Logo.wine.png" width="60"> | Kubernetes |
 
+---
 
 ### GitHub Streak &#128293;
 Goal : 100 day streak #100DaysOfCode
