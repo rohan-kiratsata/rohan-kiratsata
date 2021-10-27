@@ -10,19 +10,12 @@
 
 ### Around the Web
 
-<img src="Data/github.svg">
-<img src="Data/instagram.svg">
-<img src="Data/devBlog.svg">
-<img src="Data/linkedin.svg">
+<img src="Data/github.svg"> <img src="Data/instagram.svg"> <img src="Data/devBlog.svg"> <img src="Data/linkedin.svg">
 
 ---
 
 ### Tech I'm Familiar with
-<style>
-    td, tr, th{
-        border: none!important;
-    }
-</style>
+
 
 
 |                                      |      |                                             |        |                                    |         |
