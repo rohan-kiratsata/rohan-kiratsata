@@ -28,3 +28,8 @@
 Goal : 100 day streak #100DaysOfCode
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-kiratsata)](https://git.io/streak-stats)
+
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohan-kiratsata&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
