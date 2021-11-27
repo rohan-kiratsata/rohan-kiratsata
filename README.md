@@ -1,6 +1,5 @@
 <h1>Hi <img src="Data/wave.gif" width=50 >, I'm Rohan</h1>
 
----
 
 **I'm a freelance graphic designer and coding enthusiast.**
 
@@ -12,7 +11,6 @@
 
 <img src="Data/github.svg"> <img src="Data/instagram.svg"> <img src="Data/devBlog.svg"> <img src="Data/linkedin.svg">
 
----
 
 ### GitHub Streak &#128293;
 Goal : 100 day streak #100DaysOfCode
