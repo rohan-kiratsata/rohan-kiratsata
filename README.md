@@ -8,7 +8,7 @@
 - My Skills are **Java, Python and Android**
 - Reach me at **kiratsatarohan@gmail.com**
 
-### Around the Web
+### Around the Web &#127760;
 
 <img src="Data/github.svg"> <img src="Data/instagram.svg"> <img src="Data/devBlog.svg"> <img src="Data/linkedin.svg">
 
@@ -20,6 +20,6 @@ Goal : 100 day streak #100DaysOfCode
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-kiratsata)](https://git.io/streak-stats)
 
 
-### GitHub Trophies
+### GitHub Trophies &#127942;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohan-kiratsata&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
