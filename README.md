@@ -7,12 +7,16 @@
 - Currently Learning **Android**
 - My Skills are **Java, Python and Android**
 - Reach me at **kiratsatarohan@gmail.com**
+- Read my blogs at **[dev.to](https://dev.to/rohankiratsata)**
 
 ### Around the Web
 
-<img src="Data/github.svg"> <img src="Data/instagram.svg"> <img src="Data/devBlog.svg"> <img src="Data/linkedin.svg">
+[![GH](Data/github.svg)](https://github.com/rohan-kiratsata) [![INSTA](Data/instagram.svg)](https://instagram.com/rohan14.io) [![DEV.TO](Data/devBlog.svg)](https://dev.to/rohankiratsata) [![LINKEDIN](Data/linkedin.svg)](https://www.linkedin.com/in/rohankiratsata/)
+
 
 ---
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### GitHub Streak &#128293;
 Goal : 100 day streak #100DaysOfCode
@@ -20,6 +24,6 @@ Goal : 100 day streak #100DaysOfCode
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-kiratsata)](https://git.io/streak-stats)
 
 
-### GitHub Trophies
+### GitHub Trophies &#x1f3c6;
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohan-kiratsata&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
