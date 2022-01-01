@@ -3,8 +3,8 @@
 
 **I'm a freelance graphic designer and coding enthusiast.**
 
-- Currently Learning **MERN Stack**
-- My Skills are **Java, Python and Android**
+- Currently Learning **ReactJS**
+- My Skills are **Java, Python and Frontend Development**
 - Reach me at **kiratsatarohan@gmail.com**
 - Read my blogs at **[dev.to](https://dev.to/rohankiratsata)**
 
