@@ -13,7 +13,7 @@
 [![GH](Data/github.svg)](https://github.com/rohan-kiratsata) [![INSTA](Data/instagram.svg)](https://instagram.com/rohan14.io) [![DEV.TO](Data/devBlog.svg)](https://dev.to/rohankiratsata) [![LINKEDIN](Data/linkedin.svg)](https://www.linkedin.com/in/rohankiratsata/)
 
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### GitHub Streak &#128293;
