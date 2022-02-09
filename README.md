@@ -1,7 +1,7 @@
 <h1>Hi <img src="Data/wave.gif" width=50 >, I'm Rohan</h1>
 
 
-**I'm a freelance graphic designer and coding enthusiast.**
+**I'm a frontend web developer and coding enthusiast.**
 
 - Currently Learning **ReactJS**
 - My Skills are **Java, Python and Frontend Development**
