@@ -3,10 +3,10 @@
 
 **I'm a frontend web developer and coding enthusiast.**
 
-- Currently Learning **ReactJS**
+- Currently Learning **ExpressJS**
 - My Skills are **Java, Python and Frontend Development**
 - Reach me at **kiratsatarohan@gmail.com**
-- Read my blogs at **[dev.to](https://dev.to/rohankiratsata)**
+<!-- - Read my blogs at **[]** -->
 
 ### Around the Web &#127760;
 
