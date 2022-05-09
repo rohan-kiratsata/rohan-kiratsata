@@ -8,9 +8,9 @@
 - Reach me at **kiratsatarohan@gmail.com**
 <!-- - Read my blogs at **[]** -->
 
-### Around the Web &#127760;
+<!-- ### Around the Web &#127760;
 
-[![INSTA](Data/instagram.svg)](https://instagram.com/rohan14.io) [![DEV.TO](Data/devBlog.svg)](https://dev.to/rohankiratsata) [![LINKEDIN](Data/linkedin.svg)](https://www.linkedin.com/in/rohankiratsata/)
+[![INSTA](Data/instagram.svg)](https://instagram.com/rohan14.io) [![DEV.TO](Data/devBlog.svg)](https://dev.to/rohankiratsata) [![LINKEDIN](Data/linkedin.svg)](https://www.linkedin.com/in/rohankiratsata/) -->
 
 ---
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
