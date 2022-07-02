@@ -3,8 +3,8 @@
 
 **I'm a frontend web developer and coding enthusiast.**
 
-- Currently Learning **ExpressJS**
-- My Skills are **Java, Python and Frontend Development**
+- Currently Learning **MongoDB**
+- My Skills are **Frontend Development, UI/UX Desiging, JavaScript, Java**
 - Reach me at **kiratsatarohan@gmail.com**
 <!-- - Read my blogs at **[]** -->
 
