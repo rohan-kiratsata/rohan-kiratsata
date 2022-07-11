@@ -3,7 +3,7 @@
 
 **I'm a frontend web developer and coding enthusiast.**
 
-- Currently Learning **MongoDB**
+- Currently Learning **MongoDB & DSA**
 - My Skills are **Frontend Development, UI/UX Desiging, JavaScript, Java**
 - Reach me at **kiratsatarohan@gmail.com**
 <!-- - Read my blogs at **[]** -->
