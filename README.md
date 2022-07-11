@@ -10,21 +10,12 @@ Ask me about Tech, UI/UX, Science, Mythologies & Philosophy. (Psychology sometim
 
 ### Currently Learning:
 
-<img src="https://img.icons8.com/color/344/mongodb.png" alt="MongoDB" width="48px" />
-
-<img src="https://img.icons8.com/color/344/parallel-tasks.png" alt="DSA" width="48px" />
-<-- It's DSA (didn't found any relvent logo)
+<img src="https://img.icons8.com/color/344/mongodb.png" alt="MongoDB" width="48px" /> <img src="https://img.icons8.com/color/344/parallel-tasks.png" alt="DSA" width="48px" /> <-- It's DSA (didn't found any relvent logo)
 
 
 ### Language and Tools:
 
-<img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="52px">
-<img src="https://img.icons8.com/plasticine/344/react.png" alt="ReactJS" width="52px">
-<img src="/data/320px-Nextjs-logo.svg.png" alt="NextJS" width="64px">
-<img src="https://img.icons8.com/color/344/tailwindcss.png" alt="TailwindCSS" width="52px">
-<img src="/Data/java.png" alt="java" width="52px">
-<img src="/Data/python_logo.png" alt="java" width="52px">
-<img src="https://img.icons8.com/color/344/mongodb.png" alt="MongoDB" width="52px">
+<img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="52px"> <img src="https://img.icons8.com/plasticine/344/react.png" alt="ReactJS" width="52px"> <img src="/data/320px-Nextjs-logo.svg.png" alt="NextJS" width="64px"> <img src="https://img.icons8.com/color/344/tailwindcss.png" alt="TailwindCSS" width="52px"> <img src="/Data/java.png" alt="java" width="52px"> <img src="/Data/python_logo.png" alt="java" width="52px"> <img src="https://img.icons8.com/color/344/mongodb.png" alt="MongoDB" width="52px">
 
 <!-- 
 ### Around the Web:
