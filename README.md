@@ -15,10 +15,10 @@
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### GitHub Streak &#128293;
+![](https://komarev.com/ghpvc/?username=rohan-kiratsata&color=green)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-kiratsata)](https://git.io/streak-stats)
 
 
+<!-- GH Trophies -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rohan-kiratsata&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
