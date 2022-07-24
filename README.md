@@ -10,8 +10,9 @@ Ask me about Tech, UI/UX, Science, Mythologies & Philosophy. (Psychology sometim
 
 ### Currently Learning:
 
-<img src="https://img.icons8.com/color/344/mongodb.png" alt="MongoDB" width="48px" /> <img src="https://img.icons8.com/color/344/parallel-tasks.png" alt="DSA" width="48px" /> <-- It's DSA (didn't found any relvent logo)
-
+- **React Native**
+- **MongoDB**
+- **DSA**
 
 ### Language and Tools:
 
