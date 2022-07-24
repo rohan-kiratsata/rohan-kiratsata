@@ -4,8 +4,7 @@
 
 
 I'm a frontend developer and UI/UX designer. I create bugs and I'm the only one who solves it. Also, I can center div with css, so now you know about my development skills. Besides coding, I write blogs with 1 brain cell ([here](https://rohankiratsata.xyz)).
-Ask me about Tech, UI/UX, Science, Mythologies & Philosophy. (Psychology sometimes).
-And btw...soon I think DALL-E 2 gonna take my job..gotta learn AI/ML
+Ask me about Tech, UI/UX, Science, Mythologies & Philosophy.
 
 <img src="/Data/coding.gif" alt="">
 
