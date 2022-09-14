@@ -11,8 +11,6 @@ Ask me about Tech, UI/UX, Science, Mythologies & Philosophy.
 ### Currently Learning:
 
 - **React Native**
-- **MongoDB**
-- **DSA**
 
 ### Language and Tools:
 
